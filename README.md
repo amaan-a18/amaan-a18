@@ -2,7 +2,7 @@
 
 **FUll STACK DEVELOPER** <br>
 
-> [![GitHub amaan-a18](https://img.shields.io/github/followers/amaan-a18?label=follow&style=social&color=9F4BFF)](https://github.com/amaan-a18) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/amaan-a18?style=flat&color=9F4BFF) &#8287;[![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:exodus.shard@gmail.com) &#8287;
+> [![GitHub amaan-a18](https://img.shields.io/github/followers/amaan-a18?label=follow&style=social&color=9F4BFF)](https://github.com/amaan-a18) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/amaan-a18?style=flat&color=9F4BFF) &#8287;[![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:amaan.aslamk@gmail.com) &#8287;
 
 
 
