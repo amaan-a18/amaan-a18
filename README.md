@@ -15,7 +15,7 @@ const intro = {
   name:"Amaan",
   type:"Programmer",
   inProgress:"ML",
-  stack:["js","html5","css","c","java","python"],
+  stack:["js","html5","css","c","java","python","PHP"],
   tools:['Nextjs','React','NodeJs'],
   proficient:"Backend",
   onGoingWorks:{
