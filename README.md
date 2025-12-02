@@ -17,11 +17,8 @@ const intro = {
   inProgress:"ML",
   stack:["js","html5","css","c","java","python","PHP"],
   tools:['Nextjs','React','NodeJs'],
-  proficient:"Backend",
-  onGoingWorks:{
-   
-  learnerType:"self",
-};
+  
+ 
 ```
 
 
