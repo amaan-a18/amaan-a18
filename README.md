@@ -12,11 +12,11 @@
 
 ```javascript
 const intro = {
-  name:"Amaan",
-  type:"Programmer",
+  Name:"Amaan",
+  Type:"Programmer",
   inProgress:"ML",
-  stack:["js","html5","css","c","java","python","PHP"],
-  tools:['Nextjs','React','NodeJs'],
+  Stack:["js","html5","css","c","java","python","PHP"],
+  Tools:['Nextjs','React','NodeJs']
   
  
 ```
