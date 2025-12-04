@@ -16,10 +16,16 @@ const intro = {
   Type:"Programmer",
   inProgress:"ML",
   Stack:["js","html5","css","c","java","python","PHP"],
-  Tools:['Nextjs','React','NodeJs']
+  Tools:['Nextjs','React','NodeJs'],
+  Databases: ["MySQL", "MongoDB"],
+
+  currentlyLearning: ["Advanced React", "System Design"],
+    
+  funFact: "I debug my code more than I drink water 😄"
+
+  }
   
- 
-```
+ ```
 
 
 <p>
