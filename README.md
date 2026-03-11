@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amaan</h1>
+<h1 align="center">Hi , I'm Amaan</h1>
 
 <p >
   <b>Full-Stack Developer | AI & ML Enthusiast</b>
